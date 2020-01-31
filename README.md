@@ -1,8 +1,8 @@
 # AASB_TrabalhoPratico_Grupo2
 Relatório do trabalho AASB - Protein Sequence Manager
-Ana Barbosa
-Cátia Silva
-Eduardo Cunha 
+Ana Barbosa, 
+Cátia Silva, 
+Eduardo Cunha.
 
 Inicialmente, adaptou-se a classe MySeq das aulas para este trabalho, criando a classe Seq().
 Cada objeto tem um atributo sequência(string) e um dicionário com as propriedades referentes a cada ao respetivo objeto.
