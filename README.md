@@ -24,4 +24,5 @@ Este trabalho está definido em três ficheiros python diferentes:
 -> Classes.py: Definição de todas as classes que são usadas ao longo do trabalho.
 
 Relativamente aos requisitos obrigatórios, todos estão implementados corretamente.
+
 Já os requisitos extra, para os pontos em que era necessário recorrer a programas externos, como o caso do Alinhamento múltiplo, foi necessária a instalação de um software abordado no decorrer do curso - ClustalW e, para o último ponto, que requeria a procura de modificações pós-tradução, decidimos adaptar a procura não por sequência mas sim por identificador, neste caso em concreto, o identificador da Base de Dados UniProt.
