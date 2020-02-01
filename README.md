@@ -1,5 +1,6 @@
 # AASB_TrabalhoPratico_Grupo2
 Relatório do trabalho AASB - Protein Sequence Manager
+
 Ana Barbosa, 
 Cátia Silva, 
 Eduardo Cunha.
@@ -15,8 +16,11 @@ Para correr a aplicação, basta efetuar o comando python3 main.py. Também é n
 comando pip install Biopython (que será usado nas funcionalidades mais avançadas do projeto).
 
 Este trabalho está definido em três ficheiros python diferentes: 
+
 -> Main.py: Main da aplicação. Todas as operações IO ocorrem neste ficheiro, assim como as inserções e acessos à "base de dados".
+
 -> Functionalities.py: Ficheiro com funções avançadas como  Importar e exportar ficheiros, preparar os objetos para criar um novo objeto seq, etc.
+
 -> Classes.py: Definição de todas as classes que são usadas ao longo do trabalho.
 
 Relativamente aos requisitos obrigatórios, todos estão implementados corretamente.
