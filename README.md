@@ -19,7 +19,7 @@ Este trabalho está definido em três ficheiros python diferentes:
 
 -> Main.py: Main da aplicação. Todas as operações IO ocorrem neste ficheiro, assim como as inserções e acessos à "base de dados".
 
--> Functionalities.py: Ficheiro com funções avançadas como  Importar e exportar ficheiros, preparar os objetos para criar um novo objeto seq, etc.
+-> Functionalities.py: Ficheiro com funções avançadas como  Importar e exportar ficheiros, preparar a informação para criar um novo objeto seq, etc.
 
 -> Classes.py: Definição de todas as classes que são usadas ao longo do trabalho.
 
